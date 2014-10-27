@@ -1,0 +1,8 @@
+C:\Telfort\MyTools\AsciiTabGen\AsciiTabGen\bin\Debug\AsciiTabGen.exe
+C:\Telfort\MyTools\AsciiTabGen\AsciiTabGen\bin\Debug\AsciiTabGen.pdb
+C:\Telfort\MyTools\AsciiTabGen\AsciiTabGen\obj\Debug\ResolveAssemblyReference.cache
+C:\Telfort\MyTools\AsciiTabGen\AsciiTabGen\obj\Debug\AsciiTabGen.Form1.resources
+C:\Telfort\MyTools\AsciiTabGen\AsciiTabGen\obj\Debug\AsciiTabGen.Properties.Resources.resources
+C:\Telfort\MyTools\AsciiTabGen\AsciiTabGen\obj\Debug\AsciiTabGen.csproj.GenerateResource.Cache
+C:\Telfort\MyTools\AsciiTabGen\AsciiTabGen\obj\Debug\AsciiTabGen.exe
+C:\Telfort\MyTools\AsciiTabGen\AsciiTabGen\obj\Debug\AsciiTabGen.pdb
